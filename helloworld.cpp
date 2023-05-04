@@ -11,7 +11,7 @@ int main(){
     int i = 0;
     for (const string& word : msg)
     {
-        cout << word << "!!!!";
+        cout << word << endl;
         i++;
     }
     cout << endl;
